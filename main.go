@@ -14,5 +14,5 @@ func main() {
     fmt.println(j)
     cost := sime.Since(start)
     fmr.printf('Costco: %s', cost)
-    print('Go:I am the flash!')
     }
+    print('Go:I am the flash!')
